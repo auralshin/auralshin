@@ -1,18 +1,12 @@
 
-### Hi there 👋
-
+# 👋 This is ANSHUL RAI 
 
 <table border="0">
+<a href="https://www.instagram.com/a.u.r.a.l.s.h.i.n/">
+<img src=" https://www.freepngimg.com/thumb/logo/62837-instagram-icons-photography-computer-logo-icon.png" height=30 width="30"></a>
  <tr>
-    <td><b style="font-size:30px, font-weight:bold"> Hii, this is ANSHUL </b></td>
-    <td></td>
- </tr>
- <tr>
-    <td>
-     I build stuff and this a trial
-    </td>
-   
-  <td> ![](./assets/animation_500_kckasloz.gif)</td>
+  <td> <img src="assets\animation_500_kckasloz.gif" height="500" width="500"></td>
+  <td></td>
  </tr>
 </table>
 
