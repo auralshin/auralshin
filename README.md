@@ -33,8 +33,6 @@
   <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_200_kcka3kk0.gif" height="200" width="200"></div>
 </div>
 
-</p>
-<p>
 
 <div class="hello">
   <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_200_kcka3kk0.gif" height="200" width="200"></div>
