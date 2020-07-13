@@ -1,5 +1,7 @@
 
-# 👋 This is ANSHUL RAI  ![]("./assets/")
+# 👋 This is ANSHUL RAI  
+
+![]("assets\animation_200_kcka3kk0.gif")
 
 <table border="0">
  <tr>
