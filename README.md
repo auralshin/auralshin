@@ -3,7 +3,7 @@
 <a href="https://instagram.com/a.u.r.a.l.s.h.i.n"><img src="./assets/instagram.svg" ></a>
 <a href="https://www.linkedin.com/in/auralshin/"><img src="./assets/linkedin.svg" ></a>
 <a href="https://www.meetup.com/members/292675928/"><img src="./assets/meetup.svg" ></a>
-<a href="https://www.meetup.com/members/292675928/"><img src="./assets/telegram.svg" ></a>
+<a href="https://t.me/Auralshin"><img src="./assets/telegram.svg" ></a>
 
 
 
