@@ -28,7 +28,8 @@
   <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
 </div>
 </p>
-####  Haveknowledge and experience in App Dev through flutter and react native.
+
+####  Have knowledge and experience in App Dev through flutter and react native.
 ####  I'm a Blockchain enthusiast and love to build decentralised applications. I have a experience and quite good skill set in Python, C and C++.  
 
 
