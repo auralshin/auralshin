@@ -1,14 +1,8 @@
 # 👋 This is ANSHUL RAI  
-
-
-<table border="0">
- <tr>
-  <td border="0"> <img src="assets\animation_500_kckasloz.gif" height="500" width="500"></td>
-  <td border="0"></td>
- </tr>
-</table>
+## I'm an Full Stack Developer 
 
 <div class="hello">
-<img src="assets\animation_500_kckasloz.gif" height="500" width="500">
+ <div class="inner" style="float:left,font-weight:bold,font-size:40px"><p> Blockchain </p></div>
+  <div class="inner" style="float:right"><img src="assets\animation_500_kckasloz.gif" height="500" width="500"></div>
 </div>
 
