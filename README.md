@@ -1,8 +1,27 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 ### Hi there 👋
 
 <!--
 **auralshin/auralshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Here are some ideas to get you started:</b></td>
+    <td><b style="font-size:30px">Here are some ideas to get you started:</b></td>
+ </tr>
+ <tr>
+    <td>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...</td>
+   
+    <td>- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...</td>
+ </tr>
+</table>
 
 Here are some ideas to get you started:
 
