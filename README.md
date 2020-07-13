@@ -24,12 +24,13 @@
 
 #### I'm a full stack web developer. I'm proficient in ReactJs, VueJs, NextJs, NodeJs 
 #### And have experience with animation library such as lottie js and material.
-#### Haveknowledge and experience in App Dev through flutter and react native.
-#### I'm a Blockchain enthusiast and love to build decentralised applications. I have a experience and quite good skill set in Python, C and C++.  
-
 <p>
 
 <div class="hello">
   <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_300_kcka5y9q.gif" height="300" width="300"></div>
 </div>
 </p>
+#### Haveknowledge and experience in App Dev through flutter and react native.
+#### I'm a Blockchain enthusiast and love to build decentralised applications. I have a experience and quite good skill set in Python, C and C++.  
+
+
