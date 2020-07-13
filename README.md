@@ -1,6 +1,6 @@
-
 # 👋 This is ANSHUL RAI  
-![]("https://github.com/auralshin/auralshin/blob/master/assets/animation_300_kckabl3r.gif")
+
+![blank]("https://github.com/auralshin/auralshin/blob/master/assets/animation_300_kckabl3r.gif")
 
 <table border="0">
  <tr>
