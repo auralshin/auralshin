@@ -27,3 +27,10 @@
 #### Haveknowledge and experience in App Dev through flutter and react native.
 #### I'm a Blockchain enthusiast and love to build decentralised applications. I have a experience and quite good skill set in Python, C and C++.  
 
+<p>
+
+<div class="hello">
+  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_200_kcka3kk0.gif" align="right" height="500" width="500" padding-top:"20"></div>
+</div>
+
+</p>
