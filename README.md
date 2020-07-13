@@ -1,8 +1,6 @@
 
 ### Hi there 👋
 
-<!--
-**auralshin/auralshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <table border="0">
  <tr>
@@ -22,6 +20,11 @@
 - ⚡ Fun fact: ...</td>
  </tr>
 </table>
+
+<!--
+**auralshin/auralshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
