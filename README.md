@@ -12,7 +12,7 @@
      I build stuff and this a trial
     </td>
    
-  <td> <img src="./assets/animation_500_kckasloz.gif"></td>
+  <td> ![](./assets/animation_500_kckasloz.gif)</td>
  </tr>
 </table>
 
