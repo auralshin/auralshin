@@ -3,7 +3,7 @@
 
 <table border="0">
 <a href="https://www.instagram.com/a.u.r.a.l.s.h.i.n/">
-<img src=" https://www.freepngimg.com/thumb/logo/62837-instagram-icons-photography-computer-logo-icon.png" height=30 width="30"></a>
+<img src="./assets/insta.png" height=30 width="30"></a>
  <tr>
   <td> <img src="assets\animation_500_kckasloz.gif" height="500" width="500"></td>
   <td></td>
