@@ -30,12 +30,6 @@
 <p>
 
 <div class="hello">
-  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_200_kcka3kk0.gif" height="200" width="200"></div>
+  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_300_kcka5y9q.gif" height="300" width="300"></div>
 </div>
-
-
-<div class="hello">
-  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_200_kcka3kk0.gif" height="200" width="200"></div>
-</div>
-
 </p>
