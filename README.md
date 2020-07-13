@@ -1,8 +1,8 @@
-# 👋 This is ANSHUL RAI  
-## I'm an Full Stack Developer 
+<div class="inner" ><img src="assets\animation_300_kckabl3r.gif" align="right" height="200" width="200"></div>
+# 👋 This is ANSHUL RAI  A.K.A Auralshin 
 
 <div class="hello">
   <div class="inner" ><img src="assets\animation_500_kckasloz.gif" align="right" height="500" width="500"></div>
 </div>
 
-### Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+### I'm a full stack web developer. I'm proficient in ReactJs, VueJs, NextJs, NodeJs and have experience with animation library such as lottie js and material. Haveknowledge and experience in App Dev through flutter and react native. I'm a Blockchain enthusiast and love to build decentralised applications. I have a little experience but quite good skill set in Python, C and C++.  
