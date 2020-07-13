@@ -1,4 +1,3 @@
-<div class="inner" ><img src="assets\animation_300_kckabl3r.gif" align="right" height="200" width="200"></div>
 # 👋 This is ANSHUL RAI  A.K.A Auralshin 
 
 <div class="hello">
