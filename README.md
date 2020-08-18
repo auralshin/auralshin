@@ -21,7 +21,7 @@
 </div>
 </p>
 
-#### I'm a full stack web developer. I'm proficient in ReactJs, VueJs, NextJs, NodeJs 
+#### I'm a full stack web developer. I'm proficient in ReactJs,NuxtJs, VueJs, NextJs, NodeJs 
 #### And have experience with animation library such as lottie js and material.
 <p>
 <div class="hello">
