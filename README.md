@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/auralshin/">
   <img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/linkedin.svg" >
 </a>
-<a href="https://www.meetup.com/members/292675928/">
-  <img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/meetup.svg" >
+<a href="https://twitter.com/auralshin">
+  <img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/twitter.svg" >
 </a>
 <a href="https://t.me/Auralshin">
   <img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/telegram.svg" >
