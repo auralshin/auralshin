@@ -17,7 +17,7 @@
 <p>
 
 <div class="hello">
-  <div class="inner" ><img src="https://lottiefiles.com/57735-crypto-coins" align="right" height="500" width="500" padding-top:"20"></div>
+  <div class="inner" ><img src="raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_500_kckasloz.gif" align="right" height="500" width="500" padding-top:"20"></div>
 </div>
 </p>
 
