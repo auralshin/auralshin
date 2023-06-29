@@ -21,8 +21,8 @@
 </div>
 </p>
 
-#### I'm a full stack web developer. I'm proficient in ReactJs,NuxtJs, VueJs, NextJs, NodeJs 
-#### And have experience with animation library such as lottie js and material.
+#### I'm a full-stack web developer. I'm proficient in building scalable systems.
+
 <p>
 <div class="hello">
   <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
