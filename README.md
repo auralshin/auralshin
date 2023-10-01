@@ -21,7 +21,7 @@
 </div>
 </p>
 
-#### I'm a full-stack web developer. I'm proficient in building scalable systems.
+#### I'm a full-stack Blockchain developer. I'm proficient in building scalable systems.
 
 <p>
 <div class="hello">
@@ -29,7 +29,7 @@
 </div>
 </p>
 
-####  Have knowledge and experience in App Dev through flutter and react native.
-####  I'm a Blockchain enthusiast and love to build decentralised applications. I have a experience and quite good skill set in Python, C and C++.  
+####  Experienced Engineer with a proven track record in system design, implementation, and optimization. 
+####  Throughout my career, I've honed my expertise in architecting solutions that not only meet technical excellence but also align seamlessly with overarching business objectives. 
 
 
