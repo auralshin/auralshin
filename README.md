@@ -22,13 +22,13 @@
 </p>
 
 #### I'm a full-stack Blockchain developer. I'm proficient in building scalable systems.
-
+<!---
 <p>
 <div class="hello">
   <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
 </div>
 </p>
-
+--->
 ####  Experienced Engineer with a proven track record in system design, implementation, and optimization. 
 ####  Throughout my career, I've honed my expertise in architecting solutions that not only meet technical excellence but also align seamlessly with overarching business objectives. 
 
