@@ -1,4 +1,4 @@
-# 👋 This is Anshul Rai  A.K.A Auralshin 
+# 👋 Auralshin 
 <p>
 <a href="https://instagram.com/a.u.r.a.l.s.h.i.n">
   <img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/instagram.svg" >
