@@ -16,9 +16,6 @@
 
 <p>
 
-<div class="hello">
-  <div class="inner" ><img src="./assets/hello.gif" align="right" height="500" width="500" padding-top:"20"></div>
-</div>
 </p>
 
 #### I'm a full-stack Blockchain developer. I'm proficient in building scalable systems.
